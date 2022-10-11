@@ -143,13 +143,13 @@ global.wm3 = '⫹⫺ Albedo-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Vincentt ?`
-global.packname = 'Albedo-Botz WhatsApp'
+global.packname = 'VinnXD-Botz WhatsApp'
 global.author = '                「 VinnXD-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c2b9155b617a0217877c1.jpg'
 
 
 /*============== LOGO ==============*/
@@ -605,7 +605,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c2b9155b617a0217877c1.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
