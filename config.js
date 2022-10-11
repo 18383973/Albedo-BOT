@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/inizenscuy' // ig
-global.sgh = 'https://github.com/RaaaGH/' // github
+global.sig = 'https://instagram.com/_' // ig
+global.sgh = 'https://github.com/VincenttXD/' // github
 global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtube.com/channel/_' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
+global.pdana = '6285878258447' //dana
+global.povo = '6285878258447' //ovo
+global.pgopay = '6285878258447' //gopay
+global.plinkaja = '6285878258447' //link aja
+global.ppulsa = '6285878258447' //telkomsel
+global.ppulsa2 = '6285878258447' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorbot = '6285600648045'
+global.nomorown = '6285878258447'
+global.namebot = 'VinnXD-Botz'
+global.nameown = 'Vincentt ?'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'RaaaGH' // nama github lu
-global.linkgithub = 'github.com/RaaaGH' // tarok link github lu
+global.namagithub = 'VincenttXD' // nama github lu
+global.linkgithub = 'github.com/VincenttXD' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
+  ['6285878258447', 'Vincentt ?', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 VinnXD-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VinnXD-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Albedo-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Vincentt ?`
 global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.author = '                「 VinnXD-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Albedo-BOT'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'VinnXD-BOT'
+global.stickauth = `By © Vincentt ?`
 
 global.multiplier = 38 // The higher, The harder levelup
 
