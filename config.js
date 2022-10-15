@@ -50,7 +50,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/_' // ig
-global.sgh = 'https://github.com/VincenttXD/' // github
+global.sgh = 'https://github.com/_/' // github
 global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
@@ -58,23 +58,23 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/_' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285878258447' //dana
-global.povo = '6285878258447' //ovo
-global.pgopay = '6285878258447' //gopay
-global.plinkaja = '6285878258447' //link aja
-global.ppulsa = '6285878258447' //telkomsel
-global.ppulsa2 = '6285878258447' // kalau ada kartu lain isi aja
+global.pdana = '6285868169372' //dana
+global.povo = '6285868169372' //ovo
+global.pgopay = '6285868169372' //gopay
+global.plinkaja = '6285868169372' //link aja
+global.ppulsa = '6285868169372' //telkomsel
+global.ppulsa2 = '6285868169372' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285600648045'
-global.nomorown = '6285878258447'
-global.namebot = 'VinnXD-Botz'
-global.nameown = 'Vincentt ?'
+global.nomorbot = '6285868169372'
+global.nomorown = '6285868169372'
+global.namebot = 'KenzzStore-Botz'
+global.nameown = 'Kenzzketch ?'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'VincenttXD' // nama github lu
-global.linkgithub = 'github.com/VincenttXD' // tarok link github lu
+global.namagithub = '_' // nama github lu
+global.linkgithub = 'github.com/_' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285878258447', 'Vincentt ?', true], 
+  ['6285868169372', 'Kenzzketch', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 VinnXD-BOT 」' //Main Watermark
+global.wm = '                「 KenzzStore-BOT 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VinnXD-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm3 = '⫹⫺ KenzzStore-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Vincentt ?`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Kenzzketch`
 global.packname = 'VinnXD-Botz WhatsApp'
-global.author = '                「 VinnXD-BOT  あ」'
+global.author = '                「 KenzzStore-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'VinnXD-BOT'
-global.stickauth = `By © Vincentt ?`
+global.stickpack = 'KenzzStore-BOT'
+global.stickauth = `By © Kenzzketch`
 
 global.multiplier = 38 // The higher, The harder levelup
 
